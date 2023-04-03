@@ -1,35 +1,60 @@
+## About Me
+
+I am Chengxi Wu, I am majoring in Business Analytics in Lehigh University, and taking my bachelor degree at University of Massachussets Amherst majoring in Resource Economy.
+
+<p style="text-align:center;">
+  < img class="img-circle" src="images/Screenshot 2023-04-03 151625.png" width="50%">
+</p >
+
+---
+
 ## Portfolio
 
----
+<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-### Category Name 1 
+_**[Natural language processing 10-Ks to identify risks](project code/report.md)**_
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+You can show off your midterm analysis by moving the report components and output into this file. Or...
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+< img src="project code/output_58_0.png?raw=true"/>
 
 ---
 
-### Category Name 2
+_**[Regression Practice](Regression_practice)**_
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+
+< img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-
+< img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+_**[Some personal project](/pdf/sample_presentation.pdf)**_
+
+< img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+## Career Objectives
+
+Write what you want. 
+
+Sell yourself!
+
+---
+
+## Hobbies
+
+Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+
+---
+<p style="font-size:11px">Page template forked from < a href=" ">evanca</ a></p >
 <!-- Remove above link if you don't want to attibute -->
+
+
+
