@@ -2,9 +2,7 @@
 
 I am Chengxi Wu, I am majoring in Business Analytics in Lehigh University, and taking my bachelor degree at University of Massachussets Amherst majoring in Resource Economy.
 
-<p style="text-align:center;">
-  < img class="img-circle" src="images/Screenshot 2023-04-03 151625.png" width="50%">
-</p >
+
 
 ---
 
