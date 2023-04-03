@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> 
   <a href="pdf/Resume.pdf"btn btn--info">Resume</ a>  
   <br> 
-  <a href="https://www.GitHub.com/ChengxiWulehigh/">GitHub</ a>  
+  <a href="https://github.com/chengxiwu?tab=repositories/">GitHub</ a>  
   <br> 
 
 theme: jekyll-theme-minimal
