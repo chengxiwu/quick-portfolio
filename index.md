@@ -14,7 +14,7 @@ _**[Natural language processing 10-Ks to identify risks](Report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-< img src="project code/output_58_0.png?raw=true"/>
+<img src="project code/output_58_0.png?raw=true"/>
 
 ---
 
@@ -22,19 +22,19 @@ _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-< img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2023-03-24 142424.png?raw=true"/>
 
 ---
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-< img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-< img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
