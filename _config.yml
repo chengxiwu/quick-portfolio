@@ -1,16 +1,18 @@
 title: Chengxi Wu # your name (or website title) here
-logo: "/images/Damon.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/chw-207365257/">View My LinkedIn Profile</a> 
-  <br> 
-  <a href="pdf/Resume.pdf"btn btn--info">Resume</ a>  
-  <br> 
-  <a href="https://github.com/chengxiwu?tab=repositories/">GitHub</ a>  
-  <br> 
 
-theme: jekyll-theme-minimal
+logo: "/images/Damon.jpg?raw=true" # your photo (or logo) here
+
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ First description 
+  <br><br>
+ Second description 
+  <br><br>
+ <a href="https://www.linkedin.com/in/chw-207365257/">View My LinkedIn Profile</a> 
+ <br> 
+ <a href="pdf/Resume.pdf"btn btn--info">Resume</ a>  
+ <br> 
+ <a href="https://github.com/chengxiwu?tab=repositories/">GitHub</ a>  
+ <br> 
+
+
 
