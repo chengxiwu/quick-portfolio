@@ -1,7 +1,5 @@
 title: Chengxi Wu # your name (or website title) here
-
 logo: "/images/Damon.jpg?raw=true" # your photo (or logo) here
-
 description: > # your text below (remove <br> elements if you don't need line breaks)
  First description 
   <br><br>
@@ -12,7 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
  <a href="pdf/Resume.pdf"btn btn--info">Resume</ a>  
  <br> 
  <a href="https://github.com/chengxiwu?tab=repositories/">GitHub</ a>  
- <br> 
+ <br> <br>
+
 
 theme: jekyll-theme-minimal
 
