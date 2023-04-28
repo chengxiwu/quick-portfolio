@@ -22,7 +22,7 @@ _**[Regression Practice](regression/regression.md)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/Screenshot 2023-03-24 142424.png?raw=true"/>
+<img src="regression/output_6_0.png?raw=true"/>
 
 ---
 
